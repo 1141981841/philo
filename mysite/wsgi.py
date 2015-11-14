@@ -1,4 +1,4 @@
-WSGI config for mysite project.
+philoWSGI config for mysite project.
 
 This module contains the WSGI application used by Django's development server
 and any production WSGI deployments. It should expose a module-level variable
@@ -29,6 +29,18 @@ application = get_wsgi_application()
 # Apply WSGI middleware here.
 # from helloworld.wsgi import HelloWorldApplication
 # application = HelloWorldApplication(application)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
